@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: LaSet Development
-  description: The preview of the Startup theme
+  description: The preview of the LaSet theme
   extra:
     - name: 'og:type'
       value: website
