@@ -114,15 +114,6 @@
                 "icon": "github",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "&copy; LaSet. All rights reserved."
